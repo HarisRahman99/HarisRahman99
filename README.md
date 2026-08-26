@@ -1,343 +1,456 @@
-<!--
-  Haris Rahman | GitHub Profile README
-  BTech CSE Student | Software Developer | AI/ML Enthusiast
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,16,18&text=HARIS%20RAHMAN&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=BTech%20CSE%20Student%20%7C%20Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=230&section=header&text=HARIS%20RAHMAN&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%20%E2%80%A2%20%20AI%2FML%20%20%E2%80%A2%20%20C%2B%2B%20%20%E2%80%A2%20%20PYTHON&descAlignY=63&descSize=16&color=0:0F172A,50:312E81,100:7C3AED" alt="Haris Rahman animated header" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=850&color=8B5CF6&background=0D1117&center=true&vCenter=true&width=900&lines=BTech+CSE+Student;Software+Developer;AI%2FML+Enthusiast;C%2B%2B+%7C+Python+%7C+JavaScript;Building+projects+%7C+Learning+by+doing;Exploring+RAG+%7C+LangChain+%7C+LangGraph" alt="Animated role introduction" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Software+Development;Artificial+Intelligence+%26+Machine+Learning;C%2B%2B+%7C+Python+%7C+JavaScript;Building+Projects+%7C+Learning+by+Doing;Exploring+RAG+%7C+LangChain+%7C+LangGraph" alt="Typing SVG" />
-</a>
+<p>
+  <a href="mailto:harisrahman0110@gmail.com"><img src="https://img.shields.io/badge/CONTACT-DIRECT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Haris Rahman" /></a>
+  <a href="https://www.linkedin.com/in/harisrahman99"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/HarisRahman99"><img src="https://img.shields.io/badge/GITHUB-HarisRahman99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+</p>
 
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="BTech CSE" />
+  <img src="https://img.shields.io/badge/Raipur-Chhattisgarh-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Raipur Chhattisgarh" />
+  <img src="https://img.shields.io/badge/Graduating-2027-7C3AED?style=for-the-badge&logo=calendar&logoColor=white" alt="Graduation 2027" />
+</p>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raipur-Chhattisgarh-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Graduating-2027-7C3AED?style=for-the-badge&logo=calendar&logoColor=white"/>
-
-<br><br>
-
-<a href="mailto:harisrahman0110@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/harisrahman99">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/HarisRahman99">
-  <img src="https://img.shields.io/badge/GitHub-HarisRahman99-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=HarisRahman99&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/HarisRahman99?style=for-the-badge&color=4F46E5&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/HarisRahman99?style=for-the-badge&color=7C3AED&label=STARS"/>
+<img src="https://komarev.com/ghpvc/?username=HarisRahman99&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/HarisRahman99?style=for-the-badge&color=4F46E5&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/stars/HarisRahman99?style=for-the-badge&color=7C3AED&label=STARS" alt="Stars" />
 
 </div>
 
+<br/>
+
+## 🖥️ SYSTEM CONSOLE
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**RUNTIME**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,php,js&theme=dark&perline=4" alt="C++ Python PHP JavaScript" />
+
+<br/><br/>
+
+**INTERFACE**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3" alt="HTML CSS React" />
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+**INTELLIGENCE**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark&perline=2" alt="Python PyTorch" />
+
+<br/><br/>
+
+**BACKEND / DATA**
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres&theme=dark&perline=4" alt="Flask FastAPI MySQL PostgreSQL" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=for-the-badge&logo=statuspage&logoColor=white" alt="Current status" />
+
+</div>
+
+<br/>
+
+## ⚡ BUILD IN MOTION
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Currently in the loop:**
+
+* ⚙️ **C++ development** — building practical applications through internship projects
+* 🧠 **AI/ML systems** — developing predictive-model applications and strengthening ML foundations
+* 🌐 **Web applications** — connecting frontend interfaces with Python backends and ML models
+* 🔬 **Machine learning** — working with NumPy, Pandas, Scikit-learn and PyTorch
+* 🔗 **RAG systems** — currently learning retrieval-augmented generation
+* 🧩 **LangChain & LangGraph** — exploring modern AI application architectures
+* 🗄️ **Vector databases** — preparing to work with semantic retrieval systems
+
+I learn primarily by **building projects, solving implementation problems, and iterating on working systems**.
+
+</td>
+
+<td width="45%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/assets/coding.gif" width="100%" alt="Coding animation" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧩 TECHNOLOGY UNIVERSE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,php,js&theme=dark&perline=4" alt="Programming languages" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3" alt="Frontend technologies" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres&theme=dark&perline=4" alt="Backend and databases" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,git,github,vscode&theme=dark&perline=4" alt="AI and development tools" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+
+</div>
+
+<br/>
+
+## 🐍 DEVELOPER TERMINAL
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=8B5CF6&background=0D0D0D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%E2%94%8C%E2%94%80%E2%94%80%28haris%40github%29-%5B~%2Fprojects%5D;%E2%94%94%E2%94%80%24+whoami;harisrahman;%E2%94%8C%E2%94%80%E2%94%80%28haris%40github%29-%5B~%2Fprojects%5D;%E2%94%94%E2%94%80%24+ls+projects%2F;medipredict-ai+++cgpa-calculator+++sudoku-solver;%E2%94%8C%E2%94%80%E2%94%80%28haris%40github%29-%5B~%2Fprojects%5D;%E2%94%94%E2%94%80%24+status+--check;%5BOK%5D+mode%3ABUILDING+%7C+learning%3AAI%2FML" alt="Animated developer terminal" />
+
+</div>
+
+<br/>
+
+## 🧬 SYSTEM FLOW
+
+<table>
+<tr>
+
+<td align="center">
+👤
+<br/>
+<b>USER</b>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark&perline=4" alt="Frontend layer" />
+<br/>
+<sub>EXPERIENCE</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,python&theme=dark&perline=3" alt="Backend layer" />
+<br/>
+<sub>API / BACKEND</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=2" alt="Database layer" />
+<br/>
+<sub>DATA</sub>
+</td>
+
+</tr>
+</table>
+
+<div align="center">
+
+<sub>
+AI CORE → Machine Learning · Predictive Models · PyTorch
+&nbsp;&nbsp;|&nbsp;&nbsp;
+ENGINEERING → C++ · Python · Web Applications
+</sub>
+
+</div>
+
+<br/>
+
+## 🚀 FEATURED BUILDS
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧠 MediPredict AI
+
+**Machine learning prediction application**
+
+A web-based ML application that processes user-provided inputs and generates disease-risk predictions using a trained machine learning model.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `Flask` `Machine Learning`
+
+**Status**
+
+`COMPLETED`
+
+<a href="https://github.com/HarisRahman99/MediPredict-AI">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View MediPredict AI source" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧮 CGPA Calculator
+
+**C++ academic utility**
+
+A C++ application designed to calculate CGPA using course grades, grade points, and credit values.
+
+**Stack**
+
+`C++`
+
+**Status**
+
+`COMPLETED`
+
+<a href="https://github.com/HarisRahman99/codealpha_CGPA-Calculator">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View CGPA Calculator source" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧩 Sudoku Solver
+
+**Algorithmic C++ application**
+
+A C++ Sudoku-solving application currently under development, focused on implementing and refining the solving algorithm.
+
+**Stack**
+
+`C++` `Algorithms` `Backtracking`
+
+**Status**
+
+`IN PROGRESS`
+
+<a href="https://github.com/HarisRahman99">
+<img src="https://img.shields.io/badge/VIEW%20PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 Login & Registration System
+
+**Authentication-focused C++ application**
+
+A planned C++ project for implementing user registration and login functionality.
+
+**Stack**
+
+`C++`
+
+**Status**
+
+`PLANNED`
+
+<a href="https://github.com/HarisRahman99">
+<img src="https://img.shields.io/badge/COMING%20SOON-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Coming soon" />
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+<br/>
+
+## 📡 LIVE BUILD SIGNAL
+
+<div align="center">
+
+<a href="https://github.com/HarisRahman99?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+<a href="https://github.com/HarisRahman99?tab=activity">
+<img src="https://img.shields.io/badge/ACTIVITY-OPEN-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Open activity" />
+</a>
+
+<br/><br/>
+
+| Stage                                          | Status |
+| ---------------------------------------------- | ------ |
+| LEARN — strengthen engineering fundamentals    | ✅      |
+| BUILD — practical C++ & AI/ML projects         | 🔄     |
+| EXPLORE — RAG, LangChain & LangGraph           | 🔄     |
+| IMPLEMENT — turn concepts into working systems | 🔄     |
+| ITERATE — improve projects continuously        | 🔄     |
+
+</div>
+
+<br/>
+
+## 💼 EXPERIENCE
+
+### C++ Intern — CodeAlpha
+
+**2026 – Present · Ongoing**
+
+Working as a C++ Intern through project-based development tasks.
+
+| Task                            | Status         |
+| ------------------------------- | -------------- |
+| **CGPA Calculator**             | ✅ Completed    |
+| **Sudoku Solver**               | 🔄 In Progress |
+| **Login & Registration System** | ⏳ Planned      |
+
+**Focus:** `C++` `Algorithms` `Problem Solving` `Application Development`
+
 ---
 
-# About Me
-
-I am a **BTech Computer Science & Engineering student at Raipur Institute of Technology**, graduating in 2027, focused on building practical software and AI/ML systems.
-
-My current development interests span **software engineering, C++, Python, web development, artificial intelligence, and machine learning**. I prefer learning technologies by implementing them in real projects rather than treating them as isolated theoretical subjects.
-
-I am currently expanding my AI engineering knowledge into **RAG, LangChain, LangGraph, and vector databases**, while continuing to strengthen my foundations in software development and machine learning.
-
-### Engineering Interests
-
-- Software Engineering & C++ Development
-- Python Development
-- Artificial Intelligence & Machine Learning
-- Full-Stack Web Development
-- Predictive Modeling
-- AI-powered Applications
-- Data Processing & Machine Learning Pipelines
-- Backend Development
-
-### Open To
-
-- Software Engineering Internships
-- C++ Development Opportunities
-- AI/ML Projects
-- Collaborative Development
-- Open-source Projects
-- Technical Learning Opportunities
-
----
-
-# Tech Stack
-
-### Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,php,js" />
-
-</p>
-
-### Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-
-</p>
-
-### Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres" />
-
-</p>
-
-### AI / ML & Data
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</p>
-
-### Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Python for AI/ML | Intermediate | Development and implementation of ML workflows |
-| NumPy | Working Knowledge | Numerical computing and array-based data processing |
-| Pandas | Working Knowledge | Data manipulation and preprocessing |
-| Scikit-learn | Working Knowledge | Machine learning models and predictive modeling |
-| PyTorch | Learning / Working Knowledge | Deep learning framework and model development |
-| Predictive Modeling | Working Knowledge | Building models for prediction-oriented applications |
-| RAG | Currently Learning | Exploring retrieval-augmented AI systems |
-| LangChain | Currently Learning | Exploring frameworks for LLM-powered applications |
-| LangGraph | Currently Learning | Exploring graph-based AI application workflows |
-| Vector Databases | Planned Learning | Preparing to learn vector storage and semantic retrieval |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>01 — MediPredict AI</b></summary>
-
-<br>
-
-**MediPredict AI** is a web-based machine learning application designed to provide **disease-risk predictions** from user-provided inputs.
-
-The application combines a web interface, Flask backend, and a trained machine learning model to process inputs and return prediction results. It is intended as a predictive ML application rather than a medical diagnostic system.
-
-### Project Overview
-
-| Attribute | Details |
-|---|---|
-| **Stack** | HTML, CSS, JavaScript, Flask, Machine Learning |
-| **Type** | AI/ML Web Application |
-| **Architecture** | Frontend → Flask Backend → ML Model → Prediction |
-| **Status** | Completed |
-| **Focus** | Predictive Modeling & Web Integration |
-| **Repository** | [MediPredict-AI](https://github.com/HarisRahman99/MediPredict-AI) |
-
-### Engineering Scope
-
-- Developed a web-based interface for user input.
-- Integrated a machine learning prediction model with a Flask backend.
-- Connected frontend requests with backend prediction logic.
-- Implemented an end-to-end ML-powered web application workflow.
-- Practiced deployment-oriented integration of machine learning with web technologies.
-
-</details>
-
-<br>
-
-<details>
-<summary><b>02 — CGPA Calculator</b></summary>
-
-<br>
-
-A C++ application designed to calculate CGPA based on course grades and credit values.
-
-The project focuses on applying fundamental C++ concepts to a practical academic utility.
-
-### Project Overview
-
-| Attribute | Details |
-|---|---|
-| **Stack** | C++ |
-| **Type** | Utility Application |
-| **Status** | Completed |
-| **Focus** | C++ Programming & Data Processing |
-| **Repository** | [codealpha_CGPA-Calculator](https://github.com/HarisRahman99/codealpha_CGPA-Calculator) |
-
-### Engineering Scope
-
-- Implemented course and grade data handling.
-- Incorporated credit-weighted CGPA calculation.
-- Applied C++ structures and standard library functionality.
-- Built the project as a practical command-line application.
-
-</details>
-
----
-
-# Experience
-
-## C++ Intern — CodeAlpha
-
-**Current Internship · 2026 – Present**
-
-Currently working as a **C++ Intern at CodeAlpha**, developing practical C++ applications through project-based tasks.
-
-### Current Project Scope
-
-- **CGPA Calculator — Completed**
-  - Developed a C++ CGPA calculation application.
-  - Implemented course, credit, and grade-point processing.
-
-- **Sudoku Solver — In Progress**
-  - Developing a C++ Sudoku-solving application.
-  - Implementing and refining the solving algorithm and program structure.
-
-- **Login & Registration System — Planned**
-  - Planned C++ application for user registration and authentication.
-  - Intended to strengthen practical programming and data-handling skills.
-
-**Skills:** `C++` `Problem Solving` `Algorithms` `Application Development`
-
----
-
-## AI Intelligence Intern — Codec Technologies
+### AI Intelligence Intern — Codec Technologies
 
 **22 February 2026 – 22 March 2026 · 1 Month**
 
-Worked as an **AI Intelligence Intern**, contributing to an AI/ML project focused on **predictive modeling**.
+Worked on an AI/ML project focused on **predictive modeling**, gaining practical experience in applying machine learning concepts to an implementation-oriented project.
 
-### Scope
-
-- Worked with machine learning concepts and predictive modeling.
-- Applied AI/ML techniques to a project-oriented problem.
-- Gained practical exposure to developing predictive models.
-- Worked through the process of applying machine learning concepts in an implementation environment.
-
-**Skills:** `Python` `AI/ML` `Machine Learning` `Predictive Modeling`
+**Focus:** `AI/ML` `Machine Learning` `Predictive Modeling`
 
 ---
 
-## Industrial Training — Vardhman Technology
+### Industrial Training — Vardhman Technology
 
 **June 2026 · 1 Month**
 
 Completed industrial training focused on **Artificial Intelligence and Machine Learning**.
 
-### Focus
-
-- AI/ML fundamentals
-- Machine learning concepts
-- Practical exposure to AI/ML workflows
-
-**Skills:** `AI/ML` `Machine Learning`
+**Focus:** `AI/ML` `Machine Learning`
 
 ---
 
-## Industrial Training — Infynas Learning Solutions
+### Industrial Training — Infynas Learning Solutions
 
 **July 2025 · 1 Month**
 
 Completed industrial training focused on **Artificial Intelligence and Machine Learning**.
 
-### Focus
+**Focus:** `AI/ML` `Machine Learning`
 
-- Artificial Intelligence
-- Machine Learning
-- Practical technical training
+<br/>
 
-**Skills:** `AI/ML` `Machine Learning`
+## 🧠 AI / ML ENGINEERING
 
----
+| Domain              | Level             | Focus                                        |
+| ------------------- | ----------------- | -------------------------------------------- |
+| Python for AI/ML    | Working Knowledge | ML development and experimentation           |
+| NumPy               | Working Knowledge | Numerical computing                          |
+| Pandas              | Working Knowledge | Data manipulation and preprocessing          |
+| Scikit-learn        | Working Knowledge | Machine learning and predictive modeling     |
+| PyTorch             | Working Knowledge | Deep learning and model development          |
+| Predictive Modeling | Practical         | ML-based prediction applications             |
+| RAG                 | Learning          | Retrieval-augmented generation               |
+| LangChain           | Learning          | LLM application development                  |
+| LangGraph           | Learning          | Graph-based AI workflows                     |
+| Vector Databases    | Planned           | Semantic search and retrieval infrastructure |
 
-# GitHub Analytics
+<br/>
+
+## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
 <a href="https://github.com/HarisRahman99">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarisRahman99&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HarisRahman99&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="Haris Rahman GitHub statistics" />
 </a>
 
 <a href="https://github.com/HarisRahman99">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisRahman99&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarisRahman99&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Haris Rahman top languages" />
 </a>
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=HarisRahman99&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com?user=HarisRahman99&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" alt="Haris Rahman GitHub streak" />
 
 </div>
 
----
+<br/>
 
-# GitHub Trophies
+## 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HarisRahman99&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=HarisRahman99&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
 
 </div>
 
----
+<br/>
 
-# Contribution Activity
+## 🟩 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarisRahman99&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarisRahman99&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
----
+<br/>
 
-# Contribution Snake
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HarisRahman99/HarisRahman99/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/HarisRahman99/HarisRahman99/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
 
----
+<br/>
 
-# Current Focus
+## 🎯 CURRENT FOCUS
 
 ```yaml
-name: Haris Rahman
+profile:
+  name: Haris Rahman
+  role: BTech CSE Student
+  focus: Software Engineering + AI/ML
 
 learning:
   - RAG
   - LangChain
   - LangGraph
   - Vector Databases
-  - Advanced AI/ML Concepts
+  - Advanced AI/ML
 
 building:
   - C++ Applications
@@ -352,8 +465,45 @@ exploring:
   - Backend Development
 
 open_to:
-  - Software Engineering Opportunities
+  - Software Engineering Internships
   - C++ Development
   - AI/ML Projects
-  - Collaborative Projects
+  - Collaborative Development
   - Open Source
+```
+
+<br/>
+
+## 📡 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/HarisRahman99">
+<img src="https://img.shields.io/badge/GITHUB-HarisRahman99-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/harisrahman99">
+<img src="https://img.shields.io/badge/LINKEDIN-Haris%20Rahman-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:harisrahman0110@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONTACT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1400&color=8B5CF6&background=0D1117&center=true&vCenter=true&width=700&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+ITERATE;Always+learning;Always+building;Always+improving" alt="Animated closing message" />
+
+<br/>
+
+<sub>Building practical software while exploring intelligent systems.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,16,18" width="100%" alt="Footer banner" />
+
+</div>
