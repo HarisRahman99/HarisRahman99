@@ -1,8 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=230&section=header&text=HARIS%20RAHMAN&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%20%E2%80%A2%20%20AI%2FML%20%20%E2%80%A2%20%20C%2B%2B%20%20%E2%80%A2%20%20PYTHON&descAlignY=63&descSize=16&color=0:0F172A,50:312E81,100:7C3AED" alt="Haris Rahman animated header" />
+<!--
+  Haris Rahman | GitHub Profile README
+  BTech CSE Student | Software Developer | AI/ML Enthusiast
+-->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=850&color=8B5CF6&background=0D1117&center=true&vCenter=true&width=900&lines=BTech+CSE+Student;Software+Developer;AI%2FML+Enthusiast;C%2B%2B+%7C+Python+%7C+JavaScript;Building+projects+%7C+Learning+by+doing;Exploring+RAG+%7C+LangChain+%7C+LangGraph" alt="Animated role introduction" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,16,18&text=HARIS%20RAHMAN&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=BTech%20CSE%20Student%20%7C%20Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+
+<br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=750&lines=Software+Development;Artificial+Intelligence+%26+Machine+Learning;C%2B%2B+%7C+Python+%7C+JavaScript;Building+Projects+%7C+Learning+by+Doing;Exploring+RAG+%7C+LangChain+%7C+LangGraph" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=850&color=ffffff&background=0D1117&center=true&vCenter=true&width=900&lines=BTech+CSE+Student;Software+Developer;AI%2FML+Enthusiast;C%2B%2B+%7C+Python+%7C+JavaScript;Building+projects+%7C+Learning+by+doing;Exploring+RAG+%7C+LangChain+%7C+LangGraph" alt="Animated role introduction" />
 
 <p>
   <a href="mailto:harisrahman0110@gmail.com"><img src="https://img.shields.io/badge/CONTACT-DIRECT-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Haris Rahman" /></a>
@@ -93,11 +107,8 @@
 I learn primarily by **building projects, solving implementation problems, and iterating on working systems**.
 
 </td>
-
 <td width="45%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/assets/coding.gif" width="100%" alt="Coding animation" />
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding animation" />
 </td>
 </tr>
 </table>
@@ -109,21 +120,13 @@ I learn primarily by **building projects, solving implementation problems, and i
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=cpp,python,php,js&theme=dark&perline=4" alt="Programming languages" />
-
-<br/><br/>
-
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3" alt="Frontend technologies" />
-
-<br/><br/>
-
+<br/>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,postgres&theme=dark&perline=4" alt="Backend and databases" />
-
-<br/><br/>
-
+<br/>
 <img src="https://skillicons.dev/icons?i=pytorch,git,github,vscode&theme=dark&perline=4" alt="AI and development tools" />
-
-<br/><br/>
-
+<br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
@@ -132,15 +135,7 @@ I learn primarily by **building projects, solving implementation problems, and i
 
 <br/>
 
-## 🐍 DEVELOPER TERMINAL
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2200&pause=700&color=8B5CF6&background=0D0D0D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=170&lines=%E2%94%8C%E2%94%80%E2%94%80%28haris%40github%29-%5B~%2Fprojects%5D;%E2%94%94%E2%94%80%24+whoami;harisrahman;%E2%94%8C%E2%94%80%E2%94%80%28haris%40github%29-%5B~%2Fprojects%5D;%E2%94%94%E2%94%80%24+ls+projects%2F;medipredict-ai+++cgpa-calculator+++sudoku-solver;%E2%94%8C%E2%94%80%E2%94%80%28haris%40github%29-%5B~%2Fprojects%5D;%E2%94%94%E2%94%80%24+status+--check;%5BOK%5D+mode%3ABUILDING+%7C+learning%3AAI%2FML" alt="Animated developer terminal" />
-
-</div>
-
-<br/>
 
 ## 🧬 SYSTEM FLOW
 
@@ -421,26 +416,16 @@ Completed industrial training focused on **Artificial Intelligence and Machine L
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarisRahman99&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarisRahman99&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
+
+<a href="https://github.com/HarisRahman99"><img src="https://img.shields.io/badge/OPEN%20REAL%20GITHUB%20ACTIVITY-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Open real GitHub activity" /></a>
 
 </div>
-
-<br/>
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HarisRahman99/HarisRahman99/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-
-</div>
-
-<br/>
 
 ## 🎯 CURRENT FOCUS
 
 ```yaml
-profile:
+profile
   name: Haris Rahman
   role: BTech CSE Student
   focus: Software Engineering + AI/ML
