@@ -257,7 +257,7 @@ A C++ Sudoku-solving application currently under development, focused on impleme
 
 `IN PROGRESS`
 
-<a href="https://github.com/HarisRahman99">
+<a href="https://github.com/HarisRahman99](https://github.com/HarisRahman99/codealpha_Sudoku_Solver.git">
 <img src="https://img.shields.io/badge/VIEW%20PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile" />
 </a>
 
