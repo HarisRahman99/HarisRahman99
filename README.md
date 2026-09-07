@@ -255,7 +255,7 @@ A C++ Sudoku-solving application currently under development, focused on impleme
 
 **Status**
 
-`IN PROGRESS`
+`COMPLETED`
 
 <a href="https://github.com/HarisRahman99/codealpha_Sudoku_Solver.git">
 <img src="https://img.shields.io/badge/VIEW%20PROFILE-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub profile" />
@@ -265,22 +265,22 @@ A C++ Sudoku-solving application currently under development, focused on impleme
 
 <td width="50%" valign="top">
 
-### 🔐 Login & Registration System
+### 🏦 Banking Management System
 
-**Authentication-focused C++ application**
+**Console-based C++ banking application**
 
-A planned C++ project for implementing user registration and login functionality.
+A C++ project implementing basic banking operations including deposits, withdrawals, account-to-account transfers, balance management, and transaction history.
 
 **Stack**
 
-`C++`
+`C++` `OOP` `STL`
 
 **Status**
 
-`PLANNED`
+`COMPLETED`
 
-<a href="https://github.com/HarisRahman99">
-<img src="https://img.shields.io/badge/COMING%20SOON-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Coming soon" />
+<a href="https://github.com/HarisRahman99/codealpha_Banking_System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-312E81?style=for-the-badge&logo=github&logoColor=white" alt="View project" />
 </a>
 
 </td>
