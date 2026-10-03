@@ -108,7 +108,9 @@ I learn primarily by **building projects, solving implementation problems, and i
 
 </td>
 <td width="45%" valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"
+       width="100%"
+       alt="Developer workspace animation" />
 </td>
 </tr>
 </table>
